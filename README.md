@@ -7,9 +7,7 @@
 - Switches
 - DHCP
 
-## Objective: To simulate a small office network with three wired computers, one printer, and a
-wireless laptop, all connected to the same LAN. The router will provide DHCP to all
-devices, and you will test connectivity between them.
+## Objective: To simulate a small office network with three wired computers, one printer, and a wireless laptop, all connected to the same LAN. The router will provide DHCP to all devices, and you will test connectivity between them.
 
 ### Activity 1: Basic Lab Setup
 #### From the End Devices section and the Network Devices section, drag and drop:
